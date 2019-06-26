@@ -2,5 +2,5 @@
 
 Things to do:
 
-- [] Update description
-- [] Try screen recorder
+- [ ] Update description
+- [ ] Try screen recorder
