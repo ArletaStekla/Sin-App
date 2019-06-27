@@ -13,16 +13,16 @@ Sample emails:
 **CEST**<br/>
 Unreported / Resolved: Service Impact Notification – Thursday, 16-Jun 2019<br/>
 Resolved:&nbsp; Site disconnected from 00:24:51 CEST to 01:25:43 CEST<br/>
-Regions Affected:  EMEA<br/>
-Services Impacted:  Related services<br/>
-Sites Impacted:  Eng<br/>
-Brief Description:  Both routers on site appeared to be offline at same moment.<br/>
-SIN Reported:  16-Jun-2019 01:04 CEST<br/>
-Problem Team/Owner:  TeleCOM<br/>
-Infra Ticket Number:  7416781 <br/>
-Issue Discovered:  16-Jun-2019 00:04 CEST <br/>
-Issue Resolved:  16-Jun-2019 02:20 CEST <br/>
-Root Cause:  Power Outage<br/>
+Regions Affected:&nbsp;  EMEA<br/>
+Services Impacted:&nbsp;  Related services<br/>
+Sites Impacted:&nbsp;  Eng<br/>
+Brief Description:&nbsp;  Both routers on site appeared to be offline at same moment.<br/>
+SIN Reported:&nbsp;  16-Jun-2019 01:04 CEST<br/>
+Problem Team/Owner:&nbsp;  TeleCOM<br/>
+Infra Ticket Number:&nbsp;  7416781 <br/>
+Issue Discovered:&nbsp;  16-Jun-2019 00:04 CEST <br/>
+Issue Resolved:&nbsp;  16-Jun-2019 02:20 CEST <br/>
+Root Cause:&nbsp;  Power Outage<br/>
 
 **EDT**<br/>
 Resolved: Service Impact Notification – Sunday, 29-Jun-2019<br/>
