@@ -26,17 +26,17 @@ Root Cause:&nbsp;  Power Outage<br/>
 
 **EDT**<br/>
 Resolved: Service Impact Notification – Sunday, 29-Jun-2019<br/>
-Resolved: Maintenance work activity has been completed.<br/>
-Regions Affected:  Global<br/>
-Services Impacted:  Network Connectivity<br/>
-Sites Impacted:  All sites connected to Eng<br/>
-Brief Description:  Maintenance work will need to be extended beyond the monthly window.<br/>
-SIN Reported:  29-Jun-2019 10:02 EDT<br/>
-Problem Team/Owner:  LAN-WAN-Eng<br/>
-Infra Ticket Number:  7220677 <br/>
-Issue Discovered:  29-Jun-2019 10:01 EDT <br/>
-Issue Resolved:  29-Jun-2019 10:59 EDT <br/>
-Root Cause:  Maintenance work activity has been completed.<br/>
+Resolved:&nbsp; Maintenance work activity has been completed.<br/>
+Regions Affected:&nbsp;  Global<br/>
+Services Impacted:&nbsp;  Network Connectivity<br/>
+Sites Impacted:&nbsp;  All sites connected to Eng<br/>
+Brief Description:&nbsp;  Maintenance work will need to be extended beyond the monthly window.<br/>
+SIN Reported:&nbsp;  29-Jun-2019 10:02 EDT<br/>
+Problem Team/Owner:&nbsp;  LAN-WAN-Eng<br/>
+Infra Ticket Number:&nbsp;  7220677 <br/>
+Issue Discovered:&nbsp;  29-Jun-2019 10:01 EDT <br/>
+Issue Resolved:&nbsp;  29-Jun-2019 10:59 EDT <br/>
+Root Cause:&nbsp;  Maintenance work activity has been completed.<br/>
 
 <br/><br/>
 Things to do:
