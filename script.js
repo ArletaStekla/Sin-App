@@ -183,7 +183,7 @@ function convert() {
     else if (timeFormat == "C") {
         document.getElementById("table").style.color = "green";
         document.getElementById("startDate").innerHTML = startCESTDay + "/" + startCESTMonth + "/" + startCESTYear + " " + startCESTHour + ":" + startCESTMinute + " CEST";
-        document.getElementById("endDate").innerHTML = endCESTMonth + "/" + endCESTDay + "/" + endCESTYear + " " + endCESTHour + ":" + endCESTMinute + " CEST";
+        document.getElementById("endDate").innerHTML = endCESTDay + "/" + endCESTMonth + "/" + endCESTYear + " " + endCESTHour + ":" + endCESTMinute + " CEST";
     }
 
 }
