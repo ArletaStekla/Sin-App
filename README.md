@@ -8,9 +8,39 @@ The application allows you to copy the entire email and automatically extract th
 
 The application has been used by a company for half a year and significantly improves the process of generating report.
 
+Sample emails:
+
+**CEST**
+Unreported / Resolved: Service Impact Notification – Thursday, 16-Jun 2019
+Resolved: Site disconnected from 00:24:51 CEST to 01:25:43 CEST
+Regions Affected:  EMEA
+Services Impacted:  Related services
+Sites Impacted:  Eng
+Brief Description:  Both routers on site appeared to be offline at same moment.
+SIN Reported:  16-Jun-2019 01:04 CEST
+Problem Team/Owner:  TeleCOM
+Infra Ticket Number:  7416781 
+Issue Discovered:  16-Jun-2019 00:04 CEST 
+Issue Resolved:  16-Jun-2019 02:20 CEST 
+Root Cause:  Power Outage
+
+**EDT**
+Resolved: Service Impact Notification – Sunday, 29-Jun-2019
+Resolved: Maintenance work activity has been completed.
+Regions Affected:  Global
+Services Impacted:  Network Connectivity
+Sites Impacted:  All sites connected to Eng
+Brief Description:  Maintenance work will need to be extended beyond the monthly window.
+SIN Reported:  29-Jun-2019 10:02 EDT
+Problem Team/Owner:  LAN-WAN-Eng
+Infra Ticket Number:  7220677 
+Issue Discovered:  29-Jun-2019 10:01 EDT 
+Issue Resolved:  29-Jun-2019 10:59 EDT 
+Root Cause:  Maintenance work activity has been completed.
+
 <br/><br/><br/>
 Things to do:
 
 - [x] Update description
-- [ ] Update sample emails
+- [x] Update sample emails
 - [ ] Try screen recorder
