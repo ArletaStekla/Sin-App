@@ -8,10 +8,9 @@ The application allows you to copy the entire email and automatically extract th
 
 The application has been used by a company for half a year and significantly improves the process of generating report.
 
-
-
-
+<br/><br/><br/>
 Things to do:
 
 - [x] Update description
+- [ ] Update sample emails
 - [ ] Try screen recorder
