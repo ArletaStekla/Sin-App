@@ -12,7 +12,7 @@ Sample emails:
 
 **CEST**<br/>
 Unreported / Resolved: Service Impact Notification – Thursday, 16-Jun 2019<br/>
-Resolved: Site disconnected from 00:24:51 CEST to 01:25:43 CEST<br/>
+Resolved:&nbsp Site disconnected from 00:24:51 CEST to 01:25:43 CEST<br/>
 Regions Affected:  EMEA<br/>
 Services Impacted:  Related services<br/>
 Sites Impacted:  Eng<br/>
