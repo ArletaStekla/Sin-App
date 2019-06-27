@@ -11,32 +11,32 @@ The application has been used by a company for half a year and significantly imp
 Sample emails:
 
 **CEST**
-Unreported / Resolved: Service Impact Notification – Thursday, 16-Jun 2019
-Resolved: Site disconnected from 00:24:51 CEST to 01:25:43 CEST
-Regions Affected:  EMEA
-Services Impacted:  Related services
-Sites Impacted:  Eng
-Brief Description:  Both routers on site appeared to be offline at same moment.
-SIN Reported:  16-Jun-2019 01:04 CEST
-Problem Team/Owner:  TeleCOM
-Infra Ticket Number:  7416781 
-Issue Discovered:  16-Jun-2019 00:04 CEST 
-Issue Resolved:  16-Jun-2019 02:20 CEST 
-Root Cause:  Power Outage
+Unreported / Resolved: Service Impact Notification – Thursday, 16-Jun 2019<br/>
+Resolved: Site disconnected from 00:24:51 CEST to 01:25:43 CEST<br/>
+Regions Affected:  EMEA<br/>
+Services Impacted:  Related services<br/>
+Sites Impacted:  Eng<br/>
+Brief Description:  Both routers on site appeared to be offline at same moment.<br/>
+SIN Reported:  16-Jun-2019 01:04 CEST<br/>
+Problem Team/Owner:  TeleCOM<br/>
+Infra Ticket Number:  7416781 <br/>
+Issue Discovered:  16-Jun-2019 00:04 CEST <br/>
+Issue Resolved:  16-Jun-2019 02:20 CEST <br/>
+Root Cause:  Power Outage<br/>
 
 **EDT**
-Resolved: Service Impact Notification – Sunday, 29-Jun-2019
-Resolved: Maintenance work activity has been completed.
-Regions Affected:  Global
-Services Impacted:  Network Connectivity
-Sites Impacted:  All sites connected to Eng
-Brief Description:  Maintenance work will need to be extended beyond the monthly window.
-SIN Reported:  29-Jun-2019 10:02 EDT
-Problem Team/Owner:  LAN-WAN-Eng
-Infra Ticket Number:  7220677 
-Issue Discovered:  29-Jun-2019 10:01 EDT 
-Issue Resolved:  29-Jun-2019 10:59 EDT 
-Root Cause:  Maintenance work activity has been completed.
+Resolved: Service Impact Notification – Sunday, 29-Jun-2019<br/>
+Resolved: Maintenance work activity has been completed.<br/>
+Regions Affected:  Global<br/>
+Services Impacted:  Network Connectivity<br/>
+Sites Impacted:  All sites connected to Eng<br/>
+Brief Description:  Maintenance work will need to be extended beyond the monthly window.<br/>
+SIN Reported:  29-Jun-2019 10:02 EDT<br/>
+Problem Team/Owner:  LAN-WAN-Eng<br/>
+Infra Ticket Number:  7220677 <br/>
+Issue Discovered:  29-Jun-2019 10:01 EDT <br/>
+Issue Resolved:  29-Jun-2019 10:59 EDT <br/>
+Root Cause:  Maintenance work activity has been completed.<br/>
 
 <br/><br/><br/>
 Things to do:
