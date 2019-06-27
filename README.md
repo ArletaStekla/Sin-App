@@ -10,7 +10,7 @@ The application has been used by a company for half a year and significantly imp
 
 Sample emails:
 
-**CEST**
+**CEST**<br/>
 Unreported / Resolved: Service Impact Notification – Thursday, 16-Jun 2019<br/>
 Resolved: Site disconnected from 00:24:51 CEST to 01:25:43 CEST<br/>
 Regions Affected:  EMEA<br/>
@@ -24,7 +24,7 @@ Issue Discovered:  16-Jun-2019 00:04 CEST <br/>
 Issue Resolved:  16-Jun-2019 02:20 CEST <br/>
 Root Cause:  Power Outage<br/>
 
-**EDT**
+**EDT**<br/>
 Resolved: Service Impact Notification – Sunday, 29-Jun-2019<br/>
 Resolved: Maintenance work activity has been completed.<br/>
 Regions Affected:  Global<br/>
@@ -38,7 +38,7 @@ Issue Discovered:  29-Jun-2019 10:01 EDT <br/>
 Issue Resolved:  29-Jun-2019 10:59 EDT <br/>
 Root Cause:  Maintenance work activity has been completed.<br/>
 
-<br/><br/><br/>
+<br/><br/>
 Things to do:
 
 - [x] Update description
