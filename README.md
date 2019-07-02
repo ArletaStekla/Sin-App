@@ -8,6 +8,7 @@ The application allows you to copy the entire email and automatically extract th
 
 The application has been used by a company for half a year and significantly improves the process of generating report.
 <br/>
+
 ## Example content of emails:
 
 **CEST**<br/>
