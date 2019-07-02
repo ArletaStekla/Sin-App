@@ -38,7 +38,6 @@ Infra Ticket Number:&nbsp;  7220677 <br/>
 Issue Discovered:&nbsp;  29-Jun-2019 10:01 EDT <br/>
 Issue Resolved:&nbsp;  29-Jun-2019 10:59 EDT <br/>
 Root Cause:&nbsp;  Maintenance work activity has been completed.<br/>
-
 <br/>
 
 ## Things to do:
