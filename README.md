@@ -7,7 +7,7 @@ Creating a rapot consists in copying to Excel individual information from e-mail
 The application allows you to copy the entire email and automatically extract the necessary information. Date format is automatically changed to required format and difference between dates is calculated as well. The generated row can be copied to Excel.
 
 The application has been used by a company for half a year and significantly improves the process of generating report.
-
+<br/>
 ## Example content of emails:
 
 **CEST**<br/>
@@ -38,7 +38,7 @@ Issue Discovered:&nbsp;  29-Jun-2019 10:01 EDT <br/>
 Issue Resolved:&nbsp;  29-Jun-2019 10:59 EDT <br/>
 Root Cause:&nbsp;  Maintenance work activity has been completed.<br/>
 
-<br/><br/>
+<br/>
 ## Things to do:
 
 - [x] Update description
