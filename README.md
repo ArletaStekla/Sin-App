@@ -41,7 +41,7 @@ Root Cause:&nbsp;  Maintenance work activity has been completed.<br/>
 
 <br/>
 
-###### Things to do:
+### Things to do:
 
 - [x] Update description
 - [x] Update sample emails
