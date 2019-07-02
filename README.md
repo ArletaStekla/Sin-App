@@ -1,4 +1,4 @@
-# Sin-App
+# Sin App
 
 The application purpose is to create reports by Incident Managers. At the end of each month, IM has to create a report regarding the amount of outage communication sent by each Service Desk. The application can significantly reduce the time of creating this report.
 
@@ -8,7 +8,7 @@ The application allows you to copy the entire email and automatically extract th
 
 The application has been used by a company for half a year and significantly improves the process of generating report.
 
-Example content of emails:
+### Example content of emails:
 
 **CEST**<br/>
 Unreported / Resolved: Service Impact Notification – Thursday, 16-Jun 2019<br/>
@@ -39,7 +39,7 @@ Issue Resolved:&nbsp;  29-Jun-2019 10:59 EDT <br/>
 Root Cause:&nbsp;  Maintenance work activity has been completed.<br/>
 
 <br/><br/>
-Things to do:
+## Things to do:
 
 - [x] Update description
 - [x] Update sample emails
