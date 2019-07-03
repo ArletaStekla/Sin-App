@@ -1,4 +1,4 @@
-button{
+button {
   margin-top: 20px;
   font-size: 16px;
   background-color: white;
@@ -10,7 +10,9 @@ button{
   cursor: pointer;
 }
 
-button:hover {background-color: #dddddd;}
+button:hover {
+  background-color: #dddddd;
+}
 
 table {
   font-family: arial, sans-serif;
