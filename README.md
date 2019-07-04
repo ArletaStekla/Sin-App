@@ -45,4 +45,4 @@ Root Cause:&nbsp;  Maintenance work activity has been completed.
 ## Things to do:
 - [x] Update description
 - [x] Update sample emails
-- [ ] Try screen recorder
+- [x] Try screen recorder
